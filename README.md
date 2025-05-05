@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Esavojt
 - 👀 I’m interested in networking, server side applications, linux and Microsoft Active Directory and others
-- 🌱 I’m currently learning C++ and trying to implement IoT devices
+- 🌱 I’m currently learning C++ and recently Rust 🦀
 - 🦺 I'm currently working on my own private projects and trying networking things
 - 💻 I know these languages: Java, C#, JavaScript, Python, HTML, CSS, C
 
